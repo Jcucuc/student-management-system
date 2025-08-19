@@ -2,16 +2,7 @@
 #include <string>
 #include <bits/stdc++.h>
 using namespace std;
-/*#include <iostream>
-#include <cstdlib>
-#include <ctime>
 
-using namespace std;
-#define ll long long
-#define f(i,a,b) for(ll i=a;i<b;i++)
-#define fastcode ios::sync_with_stdio(false); cin.tie(0);
-#define el endl*/
-//#define testcases ll t;cin>>t; while(t--)
 /////////////////////////////////////////////////////////////////
 //////////  ------  ( Student Management System )  ------  /////
 
